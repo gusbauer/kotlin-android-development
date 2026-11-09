@@ -1,0 +1,17 @@
+﻿# Android Studio
+**/.idea/
+**/.gradle/
+**/.kotlin/
+**/build/
+**/out/
+**/local.properties
+*.iml
+
+# Kotlin compiled exercises
+01-Kotlin-Fundamentals/*.jar
+01-Kotlin-Fundamentals/**/*.jar
+
+# Generated files
+*.apk
+*.aab
+.DS_Store

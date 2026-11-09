@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores del collage -->
+    <color name="fondo_oscuro">#121212</color>
+    <color name="fondo_celda">#2A2A2A</color>
+    <color name="texto_blanco">#FFFFFF</color>
+</resources>

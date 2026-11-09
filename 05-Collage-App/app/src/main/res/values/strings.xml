@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CollageApp</string>
+
+    <!-- Textos del collage -->
+    <string name="titulo_collage">Mi Collage</string>
+    <string name="desc_imagen">Imagen</string>
+    <string name="btn_limpiar">Limpiar collage</string>
+    <string name="msg_sin_seleccion">No seleccionaste ninguna imagen</string>
+    <string name="msg_limpio">Collage limpio</string>
+</resources>
